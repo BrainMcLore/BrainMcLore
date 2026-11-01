@@ -1,91 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=230&section=header&text=BrainMcLore&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=Build.%20Play.%20Create.&descAlignY=75" width="100%" alt="BrainMcLore — Build. Play. Create." />
+<img src="assets/anime-night.jpg" width="100%" alt="Pink and violet anime night city" />
 
-# 👋 Hey, I'm Volodymyr
-### 💻 Application Developer · 🎮 Competitive Gamer · 🛠️ Tool Builder
+# 🌸 Fllopa
+### 𝘊𝘰𝘥𝘦 · 𝘊𝘰𝘮𝘱𝘦𝘵𝘦 · 𝘊𝘳𝘦𝘢𝘵𝘦
 
-I build applications and backend services for everyday tasks and gaming communities.<br/>
-🖥️ Desktop tools · 📱 Mobile experiences · ⚙️ Backend services
+![Developer](https://img.shields.io/badge/APPLICATION_DEVELOPER-f472b6?style=for-the-badge&labelColor=17111f)
+![Gamer](https://img.shields.io/badge/HIGH_ELO_PLAYER-c084fc?style=for-the-badge&labelColor=17111f)
+![LAN](https://img.shields.io/badge/LAN_EXPERIENCE-f9a8d4?style=for-the-badge&labelColor=17111f)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Let's_connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
-[![Projects](https://img.shields.io/badge/GitHub-Explore_projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore?tab=repositories)
+**🖥️ Desktop & mobile apps · ⚙️ Backend services · 🎮 Gaming tools**
 
-🎯 **Practical features** · 🌍 **Multilingual interfaces** · 🎮 **Tools for players**
+[![Telegram](https://img.shields.io/badge/TELEGRAM-Noname__crack-f472b6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
+[![Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore?tab=repositories)
+
+✦ ────────── 🌙 ────────── ✦
 
 </div>
 
----
+<table>
+<tr>
+<td width="38%" align="center">
+<img src="assets/anime-reference.jpg" width="320" alt="Pink-haired anime character — supplied reference" />
+</td>
+<td width="62%">
 
-## 🚀 Featured projects
+### 🎀 Behind the nickname
 
-<img src="assets/soundspace.svg" width="100%" alt="SoundSpace — Your Discord. Your sounds." />
+Hey, I'm **Fllopa** — a developer and competitive gamer.
 
-### 🎧 SoundSpace
-> **Your Discord. Your sounds.**
+💻 I build applications and backend services for everyday tasks and gaming communities.
 
-🖥️ Customize Discord audio on Windows with TeamSpeak presets, your own sounds, and community sound packs.
+🌍 My projects include multilingual interfaces, desktop utilities, and tools for team collaboration.
 
-🎵 **WAV / MP3 support** · 🔊 **Audio previews** · 📦 **Pack import & export**<br/>
-🌐 **Community workshop** · ↩️ **Restore default sounds** · 🌍 **RU / EN / UK**
+🎯 Away from code, you'll find me playing **Valorant** and **Counter-Strike 2** at high elo, with **LAN experience**.
 
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/BrainMcLore/discord-teamspeak-sounds)
-[![Download](https://img.shields.io/badge/DOWNLOAD-FF6500?style=for-the-badge)](https://github.com/BrainMcLore/discord-teamspeak-sounds/releases)
+💬 Want to talk projects or gaming? [Message me on Telegram](https://t.me/Noname_crack).
 
----
-
-<img src="assets/pet-tracker.svg" width="100%" alt="Pet Tracker" />
-
-### 🐾 Pet Tracker
-> **A place for pet tracking.**
-
-🐶 A pet tracking project built with React.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/BrainMcLore/pet-tracker-web)
-
----
-
-<img src="assets/teamsync.svg" width="100%" alt="TeamSync — Tactical workspace" />
-
-### 🧠 TeamSync
-> **One team. One tactical workspace.**
-
-🎯 A native Windows and Android application for CS2 teams: plan tactics, share notes, review demos, and export printable playbooks.
-
-🗺️ **Tactical maps** · 👥 **Team libraries & roles** · 📝 **Shared notes**<br/>
-🎬 **Demo reviews** · 📄 **PDF playbooks** · 🌍 **RU / EN**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-🔒 **Private repository** · 🚧 **In active development**
-
----
-
-<img src="assets/riot-profiles.svg" width="100%" alt="Riot Profiles — Riot Mobile Launcher" />
-
-### 📱 Riot Profiles · Riot Mobile Launcher
-> **Separate profiles. One launcher.**
-
-🖥️ A Python launcher for managing independent Android profiles for Riot Mobile on Windows.
-
-👤 **Separate accounts & app data** · ⚡ **Quick Boot** · 🖱️ **Desktop shortcuts**<br/>
-📦 **Shared system image** · 🌍 **EN / RU / UK / PT-PT**
-
-[![Source](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/BrainMcLore/riot-profiles)
-[![Download](https://img.shields.io/badge/DOWNLOAD-E84057?style=for-the-badge)](https://github.com/BrainMcLore/riot-profiles/releases)
-
----
-
-## 🛠️ My toolbox
-
-<p align="center"><img src="https://img.shields.io/badge/BUILD-8B5CF6?style=for-the-badge" alt="Build" /> <img src="https://img.shields.io/badge/SHIP-22D3EE?style=for-the-badge" alt="Ship" /> <img src="https://img.shields.io/badge/IMPROVE-34D399?style=for-the-badge" alt="Improve" /></p>
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+## 🌸 My project collection
+
+*Built around real interests — sound, pets, teamwork, and gaming.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 SoundSpace
+**Your Discord. Your sounds.**
+
+A Windows app for customizing Discord audio with TeamSpeak presets, your own sounds, and community sound packs.
+
+🎵 WAV / MP3 & audio previews<br/>
+📦 Pack import & export<br/>
+🌐 Community workshop<br/>
+↩️ Restore default sounds<br/>
+🌍 RU / EN / UK
+
+[![Source](https://img.shields.io/badge/SOURCE-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/discord-teamspeak-sounds)
+[![Releases](https://img.shields.io/badge/RELEASES-41304e?style=for-the-badge)](https://github.com/BrainMcLore/discord-teamspeak-sounds/releases)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 Pet Tracker
+**A place for pet tracking.**
+
+A pet tracking project built with React.
+
+🐶 Pet-focused application project<br/>
+⚛️ React interface<br/>
+🟨 JavaScript
+
+[![Source](https://img.shields.io/badge/SOURCE-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/pet-tracker-web)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 TeamSync
+**One team. One tactical workspace.**
+
+A native Windows and Android workspace for CS2 teams.
+
+🗺️ Tactical maps & shared notes<br/>
+👥 Team libraries, roles & invitations<br/>
+🎬 Demo reviews<br/>
+📄 Printable PDF playbooks<br/>
+🌍 RU / EN
+
+![Flutter](https://img.shields.io/badge/Flutter-c084fc?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-41304e?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-41304e?style=flat-square&logo=postgresql&logoColor=white)
+
+🔒 **Private repository** · 🚧 **In development**
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Riot Mobile · Riot Profiles
+**Separate profiles. One launcher.**
+
+A Python launcher for independent Android profiles for Riot Mobile on Windows.
+
+👤 Separate accounts & app data<br/>
+⚡ Quick Boot<br/>
+🖱️ Desktop shortcuts<br/>
+📦 Shared system image<br/>
+🌍 EN / RU / UK / PT-PT
+
+[![Source](https://img.shields.io/badge/SOURCE-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/riot-profiles)
+[![Releases](https://img.shields.io/badge/RELEASES-41304e?style=for-the-badge)](https://github.com/BrainMcLore/riot-profiles/releases)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+✦ ────────── 🦋 ────────── ✦
+
+## 🛠️ Tools behind the projects
 
 **📱 Applications & interfaces**
 
@@ -99,44 +142,40 @@ I build applications and backend services for everyday tasks and gaming communit
 
 ![Git, GitHub, GitHub Actions](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)
 
-</div>
+✦ ────────── 🎮 ────────── ✦
 
----
+<img src="assets/yuno-moonlight.jpg" width="100%" alt="Pink and violet anime moonlight illustration" />
 
-## 🎮 Beyond the code
+## 🏆 Competitive side
 
-<div align="center">
+### 🎯 High elo. 🏟️ LAN experience.
 
-<img src="assets/competitive.svg" width="100%" alt="Valorant and CS2 — High Elo and LAN Experience" />
+![Valorant](https://img.shields.io/badge/VALORANT-HIGH_ELO-f472b6?style=for-the-badge&logo=valorant&logoColor=white)
+![CS2](https://img.shields.io/badge/COUNTER--STRIKE_2-HIGH_ELO-c084fc?style=for-the-badge&logo=counterstrike&logoColor=white)
 
-### 🏆 High Elo Player · 🏟️ LAN Experience
+**High elo player in Valorant and Counter-Strike 2, with LAN experience.**
 
-![Valorant — High Elo](https://img.shields.io/badge/VALORANT-High_Elo-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
-![CS2 — High Elo](https://img.shields.io/badge/COUNTER--STRIKE_2-High_Elo-F5A623?style=for-the-badge&logo=counterstrike&logoColor=white)
+🎧 Competitive gaming is a big part of my life.<br/>
+🧠 That interest also inspires the tools I build for players and teams.
 
-🏟️ High elo player in **Valorant** and **Counter-Strike 2**, with **LAN experience**.<br/>
-![LAN experience](https://img.shields.io/badge/LAN-EXPERIENCE-22D3EE?style=for-the-badge&logo=eslgaming&logoColor=white)
+✦ ────────── 💌 ────────── ✦
 
-🎯 Competitive gaming is a big part of my life.<br/>
-💡 I also build tools for players and gaming communities.
+## Let's connect
 
-</div>
+**Projects, collaboration, or a conversation about games — my DMs are open.**
 
----
+[![Telegram](https://img.shields.io/badge/MESSAGE_Fllopa-f472b6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
 
-<div align="center">
-
-## 🤝 Let's connect
-
-Have a project in mind or want to talk about my tools? **Drop me a message.** 💬
-
-[![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
-
-**💻 Build something useful. 🎮 Play to improve. 🚀 Keep creating.**
-
-[@BrainMcLore](https://github.com/BrainMcLore)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" width="100%" alt="Purple and cyan footer" />
+🌸 **Build something useful. Play to improve. Keep creating.** 🌸
 
 </div>
 
+<details>
+<summary>🎨 Artwork sources</summary>
+
+- Main character image: supplied profile reference.
+- Night city: [source page](https://www.pinterest.com/pin/call-of-the-night-in-2022--1548181158503969/).
+- Moonlight illustration: [Gasai Yuno in the moonlight — WallpapersWide](https://wallpaperswide.com/gasai_yuno_in_the_moonlight-wallpapers.html).
+- Artwork belongs to its respective creators and rights holders. Images are existing artwork; no AI image generation was used for this profile.
+
+</details>
