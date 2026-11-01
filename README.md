@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fllopa-header.svg" width="100%" alt="Fllopa — Developer and competitive gamer" />
+  <img src="assets/fllopa-header.svg" width="100%" alt="Fllopa — Application developer" />
 </p>
 
 <p align="center">
@@ -9,24 +9,21 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=D6A6E8&center=true&vCenter=true&width=800&lines=Desktop+%26+mobile+applications;Backend+services+%26+gaming+tools;Valorant+%2B+CS2+%7C+High+elo+%7C+LAN+experience" alt="Application developer and competitive gamer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=D6A6E8&center=true&vCenter=true&width=800&lines=Desktop+%26+mobile+applications;Backend+services+%26+automation;Thoughtful+interfaces+%26+practical+tools" alt="Application developer" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/DEVELOPER-34213E?style=for-the-badge&logo=github&logoColor=ECA5C5" alt="Developer" />
-<img src="https://img.shields.io/badge/HIGH_ELO-472B4F?style=for-the-badge&logo=valorant&logoColor=ECA5C5" alt="High elo" />
-<img src="https://img.shields.io/badge/LAN_EXPERIENCE-34213E?style=for-the-badge" alt="LAN experience" />
 </p>
 
 ## 👋 About me
 
 <img src="assets/coding.gif" align="right" width="290" alt="Anime character working at a computer" />
 
-I'm **Fllopa**, a developer and competitive gamer. I work across application interfaces and backend services, building desktop utilities, mobile experiences, and tools for gaming communities.
+I'm **Fllopa**, an application developer. I work across application interfaces and backend services, building desktop utilities, mobile experiences, and backend services.
 
 My projects cover different parts of an application: user interfaces, account systems, shared data, automation, installers, and releases. I enjoy bringing those parts together into something people can use, with multilingual interfaces where they make sense.
 
-Outside development, I play **Valorant** and **Counter-Strike 2** at **high elo**, with **LAN experience**. Gaming is also a source of project ideas: custom audio for Discord, a shared tactical space for CS2 teams, and separate profiles for Riot Mobile.
 
 ---
 
@@ -53,6 +50,17 @@ A Windows application for replacing Discord sounds with classic TeamSpeak preset
 - ↩️ **Restoration:** return to Discord's default sounds from the launcher.
 - 🌍 **Languages:** Russian, English, and Ukrainian.
 
+### ✨ From a sound idea to a personal setup
+
+| Step | What the application does |
+| :--- | :--- |
+| 🎧 Choose | Start with TeamSpeak presets or select local WAV / MP3 files. |
+| 🔊 Preview | Listen before applying and choose which supported events to customize. |
+| 📦 Organize | Export a selection as a pack or import an existing one. |
+| 🌐 Discover | Browse community packs, listen to previews, and download a selection. |
+| ↩️ Restore | Return to the original Discord sounds from the launcher. |
+
+The application supports seven Discord events, including microphone and audio toggles, participant joins and leaves, and your own disconnect. Sound packs can be shared through the workshop, while the launcher handles the local customization workflow. After a Discord update, the patch may need to be applied again.
 <sub>C# · PowerShell · Windows · Inno Setup</sub>
 
 [Source code ↗](https://github.com/BrainMcLore/discord-teamspeak-sounds) &nbsp; · &nbsp; [Download / releases ↗](https://github.com/BrainMcLore/discord-teamspeak-sounds/releases)
@@ -66,13 +74,28 @@ A Windows application for replacing Discord sounds with classic TeamSpeak preset
 ### 02 / Pet Tracker
 *A pet-focused application project.*
 
-A React project centered on pet tracking. It represents the application-interface side of my work, alongside the desktop utilities and team tools featured here.
+Pet Tracker brings pet profiles and care-related information into a mobile interface. The project collection includes a **PetCareApp Android build** and a separate **React client repository**.
 
-The public client uses **React 19** and **JavaScript**, with React Testing Library included in its development setup. It has a separate repository from my gaming projects.
+The mobile screenshots show a pet list, an add-pet form, and a profile dashboard. The dashboard groups care-related areas into large tiles so a pet's information is easy to navigate.
 
-<sub>React · JavaScript · React Testing Library</sub>
+- 🐶 **Pet profiles:** photo, name, breed, and age presented together.
+- ➕ **Profile creation:** a dedicated form for adding a pet and its basic details.
+- 🩺 **Care dashboard:** entry points for veterinary visits, vaccinations, and medication reminders.
+- 🐾 **Activity & services:** dashboard entries for activity tracking and nearby veterinary clinics.
+- 📱 **Mobile interface:** a light palette, clear labels, and large touch targets.
 
-[Source code ↗](https://github.com/BrainMcLore/pet-tracker-web)
+<sub>The gallery shows the Android application. The separate React repository currently contains a starter client; the screenshots do not represent its current implementation.</sub>
+
+### 📸 Application gallery
+
+<p align="center">
+<img src="assets/pet-screen-2.png" width="30%" alt="PetCareApp — pet list" /> &nbsp;
+<img src="assets/pet-screen-3.png" width="30%" alt="PetCareApp — add pet form" /> &nbsp;
+<img src="assets/pet-screen-1.png" width="30%" alt="PetCareApp — pet profile and care dashboard" />
+</p>
+<p align="center"><sub>Pet list → Add a profile → Open the care dashboard</sub></p>
+
+[Android project ↗](https://github.com/BrainMcLore/petcareapp) &nbsp; · &nbsp; [React client ↗](https://github.com/BrainMcLore/pet-tracker-web)
 
 ---
 
@@ -94,6 +117,19 @@ A native application for **Windows and Android**, built around a team's tactical
 
 The clients use **Flutter and Dart**, backed by **Python, FastAPI, and PostgreSQL**. A Python companion handles heavier desktop processing.
 
+### 📸 Inside the workspace
+
+<img src="assets/teamsync-library.png" width="100%" alt="TeamSync — map library with bundled maps and offline availability" />
+<p align="center"><sub>Map library — browse bundled maps and open a tactical workspace.</sub></p>
+
+<img src="assets/teamsync-editor.png" width="100%" alt="TeamSync — tactical editor with player markers, arrows and notes" />
+<p align="center"><sub>Tactical editor — player positions, utility markers, arrows, and versioned notes.</sub></p>
+
+### 🔄 From planning to review
+
+A team starts with its shared library, opens a map, and records a tactic using drawings and notes. Members can assign work, review prepared demos, and export tactical snapshots into a PDF playbook. The Windows companion handles heavier demo processing; Android provides access to the shared workspace and prepared reviews.
+
+Account invitations and roles connect that workflow to an actual roster. When a connection is unavailable, edits are queued; conflicting changes are preserved as separate copies. The screenshots show development verification screens, rather than a guarantee that every feature is available in every published build.
 <sub>Flutter · Dart · Python · FastAPI · PostgreSQL · SQLite</sub>
 
 **Status:** active development. The repository is private; feature availability differs between published builds and the current development branch.
@@ -116,6 +152,18 @@ A Python launcher for creating and managing separate Android emulator profiles. 
 - 📥 **Distribution:** a Windows installer, a PowerShell installation helper, and automated release builds.
 - 🌍 **Languages:** English, Russian, Ukrainian, and Portuguese from Portugal.
 
+### ⚙️ How the launcher is organized
+
+| Layer | Purpose |
+| :--- | :--- |
+| 👤 Profiles | Separate writable Android data, installed apps, accounts, and saved state. |
+| 📦 Shared components | One read-only system image and shared Android tools. |
+| ⚡ Launch control | Quick Boot, cold boot, and bringing an active profile forward. |
+| 🖥️ Windows integration | Installer, launcher shortcuts, and per-profile desktop shortcuts. |
+
+Create a named profile, launch Android, and sign into Riot Mobile inside the official app. The launcher manages the local emulator profiles; Google and Riot credentials are entered inside Android rather than into the launcher. Multiple profiles can run at once, subject to the computer's available resources.
+
+The standalone Windows release does not require a separate Python or Android Studio installation. Release tooling also produces installers, source archives, and checksums through the project's build workflow.
 <sub>Python · PowerShell · Android Emulator · GitHub Actions</sub>
 
 [Source code ↗](https://github.com/BrainMcLore/riot-profiles) &nbsp; · &nbsp; [Download / releases ↗](https://github.com/BrainMcLore/riot-profiles/releases)
@@ -131,13 +179,13 @@ A Python launcher for creating and managing separate Android emulator profiles. 
 | | Project | What it focuses on |
 | :---: | :--- | :--- |
 | 🎧 | **SoundSpace** | Personalization, audio workflows, and a community workshop |
-| 🐾 | **Pet Tracker** | A pet-focused React application interface |
+| 🐾 | **Pet Tracker** | Pet profiles, care navigation, and an Android companion |
 | 🧠 | **TeamSync** | Shared team data, native clients, and tactical collaboration |
 | 📱 | **Riot Profiles** | Desktop automation, profile separation, and application delivery |
 
 ### 💻 Interfaces → ⚙️ Services → 📦 Releases
 
-The projects span different parts of software development. **SoundSpace** and **Riot Profiles** include Windows launchers and installation workflows. **TeamSync** connects native clients to shared backend services. **Pet Tracker** adds a React client to the collection.
+The projects span different parts of software development. **SoundSpace** and **Riot Profiles** include Windows launchers and installation workflows. **TeamSync** connects native clients to shared backend services. **Pet Tracker** adds a pet-care interface and a separate React client repository to the collection.
 
 ### 🌍 Multilingual experiences
 
@@ -170,51 +218,22 @@ Language support is part of several projects: **SoundSpace** supports RU / EN / 
 
 <br clear="all" />
 
-<img src="assets/section-gaming.svg" width="100%" alt="Beyond development" />
-
-## 🎮 Beyond development
-
-<img src="assets/gaming.gif" align="right" width="340" alt="Anime character focused on gaming" />
-
-### 🏆 High elo player · 🏟️ LAN experience
-
-![Valorant](https://img.shields.io/badge/VALORANT-HIGH_ELO-ECA5C5?style=for-the-badge&logo=valorant&logoColor=17121F)
-![CS2](https://img.shields.io/badge/COUNTER--STRIKE_2-HIGH_ELO-BEA2EA?style=for-the-badge&logo=counterstrike&logoColor=17121F)
-
-**Valorant & Counter-Strike 2 — high elo player with LAN experience.**
-
-🎯 **Games:** Valorant and Counter-Strike 2.<br/>
-🏟️ **Experience:** online competitive play and LAN.<br/>
-🧠 **Interests:** team coordination, tactical planning, and gaming tools.<br/>
-🎧 **Off the server:** anime, software, and personal projects.
-
-Competitive gaming is a big part of my life, alongside building software. My projects reflect both interests: some solve everyday problems, while others support the way players customize their setup or work with a team.
-
-<p align="center">
-  <br clear="all" />
-  <img src="assets/yuno-moonlight.jpg" width="640" alt="Anime illustration in muted pink and violet moonlight" />
-  <br/>
-  <sub>A little anime atmosphere, between projects and matches.</sub>
-</p>
-
-<br clear="all" />
-
 <img src="assets/section-contact.svg" width="100%" alt="Contact" />
 
 ## 💬 Contact
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-MESSAGE_Fllopa-C8A4DF?style=for-the-badge&logo=telegram&logoColor=17121F)](https://t.me/Noname_crack)
 
-For project discussions, collaboration, or a conversation about games, reach me on **[Telegram ↗](https://t.me/Noname_crack)**.
+For project discussions, collaboration, or questions about my applications, reach me on **[Telegram ↗](https://t.me/Noname_crack)**.
 
 <details>
 <summary>🎨 Artwork & animation credits</summary>
 
 - [Coding animation — Tenor](https://tenor.com/view/coding-anime-gif-24565564).
 - [Bocchi animation — Tenor / AnimeConexion](https://tenor.com/view/bocchi-the-rock-anime-gif-27049102).
-- [Gaming animation — GIFDB](https://gifdb.com/gif/serious-anime-gaming-girl-btwbo1lrl0qrvoer.html).
 
-Existing illustration: [Gasai Yuno in the moonlight — WallpapersWide](https://wallpaperswide.com/gasai_yuno_in_the_moonlight-wallpapers.html). Artwork belongs to its respective creators and rights holders.
+Artwork and animations belong to their respective creators and rights holders.
 
 </details>
+
 
