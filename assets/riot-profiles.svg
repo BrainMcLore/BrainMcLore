@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="RIOT PROFILES — SEPARATE PROFILES. ONE LAUNCHER.">
+<defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="220" rx="20" fill="#0d1117"/>
+<rect width="1200" height="220" rx="20" fill="url(#g)"/>
+<rect x="0" y="30" width="5" height="160" rx="2" fill="#fb7185"/>
+<circle cx="1090" cy="110" r="145" fill="#fb7185" opacity=".06"/>
+<circle cx="1045" cy="110" r="70" stroke="#fb7185" stroke-opacity=".5" fill="none"/>
+<circle cx="1045" cy="110" r="50" stroke="#fb7185" stroke-opacity=".2" fill="none"/>
+<path d="M1045 22v35m0 106v35m-88-88h35m106 0h35" stroke="#fb7185" stroke-width="2"/>
+<text x="1045" y="116" text-anchor="middle" fill="#fb7185" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">MOBILE</text>
+<text x="48" y="55" fill="#fb7185" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="4">BRAINMCLORE / MOBILE</text>
+<text x="44" y="121" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="2">RIOT PROFILES</text>
+<text x="48" y="165" fill="#9daec3" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2">SEPARATE PROFILES. ONE LAUNCHER.</text>
+<path d="M48 191h100" stroke="#fb7185" stroke-width="3"/>
+</svg>
