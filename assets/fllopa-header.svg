@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fllopa — Developer and competitive gamer">
+<rect width="1200" height="300" rx="14" fill="#111016"/>
+<path d="M48 250H1152" stroke="#35303d"/>
+<text x="50" y="52" fill="#aaa3b4" font-family="Consolas,monospace" font-size="13" letter-spacing="3">DEVELOPMENT / GAMING / PERSONAL PROJECTS</text>
+<text x="42" y="171" fill="#f4eff6" font-family="Georgia,serif" font-style="italic" font-size="115">Fllopa<tspan fill="#c7a2ba">.</tspan></text>
+<text x="52" y="218" fill="#bdb5c7" font-family="Segoe UI,Arial,sans-serif" font-size="20">Applications for everyday life. Tools for the games I play.</text>
+<text x="52" y="278" fill="#9b91a5" font-family="Consolas,monospace" font-size="12" letter-spacing="2">DESKTOP + MOBILE</text>
+<text x="494" y="278" fill="#9b91a5" font-family="Consolas,monospace" font-size="12" letter-spacing="2">BACKEND SERVICES</text>
+<text x="984" y="278" fill="#c7a2ba" font-family="Consolas,monospace" font-size="12" letter-spacing="2">HIGH ELO / LAN</text>
+</svg>

@@ -1,181 +1,129 @@
-<div align="center">
+<p align="center">
+  <img src="assets/fllopa-header.svg" width="100%" alt="Fllopa — Developer and competitive gamer" />
+</p>
 
-<img src="assets/anime-night.jpg" width="100%" alt="Pink and violet anime night city" />
+<p align="center">
+  <a href="https://t.me/Noname_crack">Telegram ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/BrainMcLore?tab=repositories">Repositories ↗</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Selected projects ↓</a>
+</p>
 
-# 🌸 Fllopa
-### 𝘊𝘰𝘥𝘦 · 𝘊𝘰𝘮𝘱𝘦𝘵𝘦 · 𝘊𝘳𝘦𝘢𝘵𝘦
+## About me
 
-![Developer](https://img.shields.io/badge/APPLICATION_DEVELOPER-f472b6?style=for-the-badge&labelColor=17111f)
-![Gamer](https://img.shields.io/badge/HIGH_ELO_PLAYER-c084fc?style=for-the-badge&labelColor=17111f)
-![LAN](https://img.shields.io/badge/LAN_EXPERIENCE-f9a8d4?style=for-the-badge&labelColor=17111f)
+I'm **Fllopa**, a developer and competitive gamer. I work across application interfaces and backend services, building desktop utilities, mobile experiences, and tools for gaming communities.
 
-**🖥️ Desktop & mobile apps · ⚙️ Backend services · 🎮 Gaming tools**
+My projects cover different parts of an application: user interfaces, account systems, shared data, automation, installers, and releases. I enjoy bringing those parts together into something people can use, with multilingual interfaces where they make sense.
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-Noname__crack-f472b6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
-[![Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore?tab=repositories)
+Outside development, I play **Valorant** and **Counter-Strike 2** at **high elo**, with **LAN experience**. Gaming is also a source of project ideas: custom audio for Discord, a shared tactical space for CS2 teams, and separate profiles for Riot Mobile.
 
-✦ ────────── 🌙 ────────── ✦
+---
 
-</div>
+## Selected projects
 
-<table>
-<tr>
-<td width="38%" align="center">
-<img src="assets/anime-reference.jpg" width="320" alt="Pink-haired anime character — supplied reference" />
-</td>
-<td width="62%">
+### 01 / SoundSpace
+*Discord audio, made personal.*
 
-### 🎀 Behind the nickname
+A Windows application for replacing Discord sounds with classic TeamSpeak presets, custom WAV/MP3 files, or sound packs shared by the community. The launcher brings sound selection, previews, pack management, and restoration into one interface.
 
-Hey, I'm **Fllopa** — a developer and competitive gamer.
+- **Sound customization:** choose presets or your own files, preview audio before applying it, and select which supported events to customize.
+- **Pack management:** save a selection as a sound pack, import an existing pack, and keep a personal library.
+- **Community workshop:** browse, listen to, download, and publish packs through an account.
+- **Restoration:** return to Discord's default sounds from the launcher.
+- **Languages:** Russian, English, and Ukrainian.
 
-💻 I build applications and backend services for everyday tasks and gaming communities.
+<sub>C# · PowerShell · Windows · Inno Setup</sub>
 
-🌍 My projects include multilingual interfaces, desktop utilities, and tools for team collaboration.
+[Source code ↗](https://github.com/BrainMcLore/discord-teamspeak-sounds) &nbsp; · &nbsp; [Download / releases ↗](https://github.com/BrainMcLore/discord-teamspeak-sounds/releases)
 
-🎯 Away from code, you'll find me playing **Valorant** and **Counter-Strike 2** at high elo, with **LAN experience**.
+---
 
-💬 Want to talk projects or gaming? [Message me on Telegram](https://t.me/Noname_crack).
+### 02 / Pet Tracker
+*A pet-focused application project.*
 
-</td>
-</tr>
-</table>
+A React project centered on pet tracking. It represents the application-interface side of my work, alongside the desktop utilities and team tools featured here.
 
-<div align="center">
+The public client uses **React 19** and **JavaScript**, with React Testing Library included in its development setup. It has a separate repository from my gaming projects.
 
-## 🌸 My project collection
+<sub>React · JavaScript · React Testing Library</sub>
 
-*Built around real interests — sound, pets, teamwork, and gaming.*
+[Source code ↗](https://github.com/BrainMcLore/pet-tracker-web)
 
-</div>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 03 / TeamSync
+*A shared tactical workspace for CS2 teams.*
 
-### 🎧 SoundSpace
-**Your Discord. Your sounds.**
+A native application for **Windows and Android**, built around a team's tactical library. Players can plan on maps, share drawings and notes, review prepared demos, and export printable playbooks.
 
-A Windows app for customizing Discord audio with TeamSpeak presets, your own sounds, and community sound packs.
+- **Team collaboration:** accounts, invitations, roster roles, and shared tactical documents.
+- **Tactical planning:** maps, drawings, notes, and team assignments.
+- **Demo review:** Windows handles DEM processing; Android can open prepared reviews, with notes linked to rounds and ticks.
+- **Shared changes:** queued updates during connection loss and separate copies for conflicting edits.
+- **Playbooks:** PDF exports with tactical snapshots for offline review.
+- **Languages:** Russian and English.
 
-🎵 WAV / MP3 & audio previews<br/>
-📦 Pack import & export<br/>
-🌐 Community workshop<br/>
-↩️ Restore default sounds<br/>
-🌍 RU / EN / UK
+The clients use **Flutter and Dart**, backed by **Python, FastAPI, and PostgreSQL**. A Python companion handles heavier desktop processing.
 
-[![Source](https://img.shields.io/badge/SOURCE-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/discord-teamspeak-sounds)
-[![Releases](https://img.shields.io/badge/RELEASES-41304e?style=for-the-badge)](https://github.com/BrainMcLore/discord-teamspeak-sounds/releases)
+<sub>Flutter · Dart · Python · FastAPI · PostgreSQL · SQLite</sub>
 
-</td>
-<td width="50%" valign="top">
+**Status:** active development. The repository is private; feature availability differs between published builds and the current development branch.
 
-### 🐾 Pet Tracker
-**A place for pet tracking.**
+---
 
-A pet tracking project built with React.
+### 04 / Riot Profiles
+*Independent Riot Mobile profiles, managed from Windows.*
 
-🐶 Pet-focused application project<br/>
-⚛️ React interface<br/>
-🟨 JavaScript
+A Python launcher for creating and managing separate Android emulator profiles. Each profile keeps its own accounts, installed apps, saved data, and Quick Boot state, while sharing a read-only base system image.
 
-[![Source](https://img.shields.io/badge/SOURCE-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/pet-tracker-web)
+- **Profile management:** create named profiles, select one to launch, or bring an existing window forward.
+- **Independent data:** keep Android app data and accounts separate between profiles.
+- **Startup options:** resume a Quick Boot state or perform a cold boot without wiping data.
+- **Desktop integration:** shortcuts for the launcher or a particular profile.
+- **Distribution:** a Windows installer, a PowerShell installation helper, and automated release builds.
+- **Languages:** English, Russian, Ukrainian, and Portuguese from Portugal.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<sub>Python · PowerShell · Android Emulator · GitHub Actions</sub>
 
-### 🧠 TeamSync
-**One team. One tactical workspace.**
+[Source code ↗](https://github.com/BrainMcLore/riot-profiles) &nbsp; · &nbsp; [Download / releases ↗](https://github.com/BrainMcLore/riot-profiles/releases)
 
-A native Windows and Android workspace for CS2 teams.
+<sub>Independent community project; not affiliated with Riot Games or Google.</sub>
 
-🗺️ Tactical maps & shared notes<br/>
-👥 Team libraries, roles & invitations<br/>
-🎬 Demo reviews<br/>
-📄 Printable PDF playbooks<br/>
-🌍 RU / EN
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-c084fc?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-41304e?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-41304e?style=flat-square&logo=postgresql&logoColor=white)
+## Technology
 
-🔒 **Private repository** · 🚧 **In development**
+| Focus | Tools used in my projects |
+| :--- | :--- |
+| Application interfaces | Flutter, Dart, React, JavaScript |
+| Desktop software | C#, Python, PowerShell |
+| Backend & storage | FastAPI, PostgreSQL, SQLite |
+| Delivery | Git, GitHub Actions, Inno Setup |
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,cs,python,fastapi,postgres,git&amp;theme=dark&amp;perline=8" height="42" alt="Flutter, Dart, React, C#, Python, FastAPI, PostgreSQL and Git" />
+</p>
 
-### 📱 Riot Mobile · Riot Profiles
-**Separate profiles. One launcher.**
+---
 
-A Python launcher for independent Android profiles for Riot Mobile on Windows.
+## Beyond development
 
-👤 Separate accounts & app data<br/>
-⚡ Quick Boot<br/>
-🖱️ Desktop shortcuts<br/>
-📦 Shared system image<br/>
-🌍 EN / RU / UK / PT-PT
+**Valorant & Counter-Strike 2 — high elo player with LAN experience.**
 
-[![Source](https://img.shields.io/badge/SOURCE-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrainMcLore/riot-profiles)
-[![Releases](https://img.shields.io/badge/RELEASES-41304e?style=for-the-badge)](https://github.com/BrainMcLore/riot-profiles/releases)
+Competitive gaming is a big part of my life, alongside building software. My projects reflect both interests: some solve everyday problems, while others support the way players customize their setup or work with a team.
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/yuno-moonlight.jpg" width="640" alt="Anime illustration in muted pink and violet moonlight" />
+  <br/>
+  <sub>A little anime atmosphere, between projects and matches.</sub>
+</p>
 
-<div align="center">
+## Contact
 
-✦ ────────── 🦋 ────────── ✦
-
-## 🛠️ Tools behind the projects
-
-**📱 Applications & interfaces**
-
-![Flutter, Dart, React, JavaScript, C#](https://skillicons.dev/icons?i=flutter,dart,react,js,cs&theme=dark)
-
-**⚙️ Backend & automation**
-
-![Python, FastAPI, PostgreSQL, PowerShell](https://skillicons.dev/icons?i=python,fastapi,postgres,powershell&theme=dark)
-
-**📦 Build & delivery**
-
-![Git, GitHub, GitHub Actions](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)
-
-✦ ────────── 🎮 ────────── ✦
-
-<img src="assets/yuno-moonlight.jpg" width="100%" alt="Pink and violet anime moonlight illustration" />
-
-## 🏆 Competitive side
-
-### 🎯 High elo. 🏟️ LAN experience.
-
-![Valorant](https://img.shields.io/badge/VALORANT-HIGH_ELO-f472b6?style=for-the-badge&logo=valorant&logoColor=white)
-![CS2](https://img.shields.io/badge/COUNTER--STRIKE_2-HIGH_ELO-c084fc?style=for-the-badge&logo=counterstrike&logoColor=white)
-
-**High elo player in Valorant and Counter-Strike 2, with LAN experience.**
-
-🎧 Competitive gaming is a big part of my life.<br/>
-🧠 That interest also inspires the tools I build for players and teams.
-
-✦ ────────── 💌 ────────── ✦
-
-## Let's connect
-
-**Projects, collaboration, or a conversation about games — my DMs are open.**
-
-[![Telegram](https://img.shields.io/badge/MESSAGE_Fllopa-f472b6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Noname_crack)
-
-🌸 **Build something useful. Play to improve. Keep creating.** 🌸
-
-</div>
+For project discussions, collaboration, or a conversation about games, reach me on **[Telegram ↗](https://t.me/Noname_crack)**.
 
 <details>
-<summary>🎨 Artwork sources</summary>
+<summary>Artwork credit</summary>
 
-- Main character image: supplied profile reference.
-- Night city: [source page](https://www.pinterest.com/pin/call-of-the-night-in-2022--1548181158503969/).
-- Moonlight illustration: [Gasai Yuno in the moonlight — WallpapersWide](https://wallpaperswide.com/gasai_yuno_in_the_moonlight-wallpapers.html).
-- Artwork belongs to its respective creators and rights holders. Images are existing artwork; no AI image generation was used for this profile.
+Existing illustration: [Gasai Yuno in the moonlight — WallpapersWide](https://wallpaperswide.com/gasai_yuno_in_the_moonlight-wallpapers.html). Artwork belongs to its respective creators and rights holders.
 
 </details>
